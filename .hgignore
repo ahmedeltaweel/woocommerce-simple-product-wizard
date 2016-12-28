@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+syntax: glob
+
+*.log
+composer.phar
+vendor/
+node_modules/

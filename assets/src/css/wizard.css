@@ -1,0 +1,68 @@
+.wizard-container {
+	width: 90%;
+}
+
+.wizard > .content {
+	clear: both !important;
+}
+
+.wwapw-hidden, .wwapw-hidden-inventory {
+	display: none;
+}
+
+#product-gallery-images, .wwapw-main-image-field {
+	display: none !important;
+}
+
+.image-gallery {
+	display: flex;
+	justify-content: space-around;
+	flex-flow: row;
+	flex-wrap: wrap;
+}
+
+.image-gallery > img {
+	width: 200px;
+	height: 200px;
+	margin: 20px;
+}
+
+#wizard-error {
+	color: #ff0000;
+	border: 1px solid #ff0000;
+	padding: 5px;
+}
+
+.wwapw-main-image {
+	width: 500px;
+}
+
+.wizard > .content > .body {
+	position: relative;
+	height: 100%;
+}
+
+.children {
+	margin-left: 20px !important;
+}
+
+.wizard ul, .tabcontrol ul {
+	margin-top: 5px;;
+}
+
+.wizard > .steps > ul > li {
+	width: 16%;
+}
+
+.select2-container--default .select2-search--inline .select2-search__field {
+	border: none !important;
+	width: 100% !important;
+}
+
+.wwapw-input-small {
+	width: 14em !important;
+}
+
+.select2-dropdown {
+	z-index: 10000 !important;
+}

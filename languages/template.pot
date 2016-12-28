@@ -1,0 +1,214 @@
+# Copyright (C) 2016 teamyea
+# This file is distributed under the GNU General Public License, version 3, http://www.gnu.org/licenses/gpl-3.0.en.html.
+msgid ""
+msgstr ""
+"Project-Id-Version: Haladeen Add Simple Product Wizard 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/init\n"
+"POT-Creation-Date: 2016-11-15 16:43:56+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: Nabeel Molham <n.molham@gmail.com>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: includes/classes/Backend.php:102 views/add-product-wizard.php:3
+msgid "Add Product"
+msgstr ""
+
+#: includes/classes/Backend.php:103
+msgid "Add Product Wizard"
+msgstr ""
+
+#: includes/classes/Backend.php:134
+msgid "No Categories found please add some."
+msgstr ""
+
+#: includes/classes/Backend.php:136
+msgid "Add Category"
+msgstr ""
+
+#: init.php:115
+msgid "Template <code>%s</code> File not found, calculated path: <code>%s</code>"
+msgstr ""
+
+#: views/add-product-wizard.php:12
+msgid "Basic Information"
+msgstr ""
+
+#: views/add-product-wizard.php:15
+msgid "Product Name * "
+msgstr ""
+
+#: views/add-product-wizard.php:19
+msgid "Product Description "
+msgstr ""
+
+#: views/add-product-wizard.php:27
+msgid "Select Main Image *"
+msgstr ""
+
+#: views/add-product-wizard.php:29
+msgid "Main Image"
+msgstr ""
+
+#: views/add-product-wizard.php:32 views/add-product-wizard.php:80
+#: views/add-product-wizard.php:126 views/add-product-wizard.php:217
+msgid "(*) Required"
+msgstr ""
+
+#: views/add-product-wizard.php:35
+msgid "Pricing"
+msgstr ""
+
+#: views/add-product-wizard.php:39
+msgid "Regular Price * (Minimum 0.01)"
+msgstr ""
+
+#: views/add-product-wizard.php:46
+msgid "Sale Price (Minimum 0.01)"
+msgstr ""
+
+#: views/add-product-wizard.php:56
+msgid "Sale Price Dates: "
+msgstr ""
+
+#: views/add-product-wizard.php:67
+msgid "Minimum Quantity (Minimum 1)"
+msgstr ""
+
+#: views/add-product-wizard.php:75
+msgid "Maximum Quantity"
+msgstr ""
+
+#: views/add-product-wizard.php:83
+msgid "Inventory"
+msgstr ""
+
+#: views/add-product-wizard.php:86
+msgid "SKU * "
+msgstr ""
+
+#: views/add-product-wizard.php:90
+msgid "Stock Status "
+msgstr ""
+
+#: views/add-product-wizard.php:94
+msgid "In Stock"
+msgstr ""
+
+#: views/add-product-wizard.php:95
+msgid "Out Of Stock"
+msgstr ""
+
+#: views/add-product-wizard.php:99
+msgid "Manage stock"
+msgstr ""
+
+#: views/add-product-wizard.php:104
+msgid "Enable stock management at product level"
+msgstr ""
+
+#: views/add-product-wizard.php:109
+msgid "Stock quantity "
+msgstr ""
+
+#: views/add-product-wizard.php:116
+msgid "Allow backorders? "
+msgstr ""
+
+#: views/add-product-wizard.php:121
+msgid "Do Not Allow"
+msgstr ""
+
+#: views/add-product-wizard.php:122
+msgid "Allow, but notify customer"
+msgstr ""
+
+#: views/add-product-wizard.php:123
+msgid "Allow"
+msgstr ""
+
+#: views/add-product-wizard.php:129
+msgid "Dimensions"
+msgstr ""
+
+#: views/add-product-wizard.php:133
+msgid "Product Weight (kg) "
+msgstr ""
+
+#: views/add-product-wizard.php:139
+msgid "Product Length"
+msgstr ""
+
+#: views/add-product-wizard.php:145
+msgid "Product Width"
+msgstr ""
+
+#: views/add-product-wizard.php:151
+msgid "Product Height"
+msgstr ""
+
+#: views/add-product-wizard.php:173
+msgid "Category"
+msgstr ""
+
+#: views/add-product-wizard.php:177
+msgid "Select Category *"
+msgstr ""
+
+#: views/add-product-wizard.php:200
+msgid "Select Tag"
+msgstr ""
+
+#: views/add-product-wizard.php:220
+msgid "Gallery"
+msgstr ""
+
+#: views/add-product-wizard.php:224
+msgid "Select Additional Images"
+msgstr ""
+
+#: views/add-product-wizard.php:226
+msgid "Select Images"
+msgstr ""
+
+#: views/add-product-wizard.php:233
+msgid "What to do after submission ?"
+msgstr ""
+
+#: views/add-product-wizard.php:237
+msgid "Add New Product."
+msgstr ""
+
+#: views/add-product-wizard.php:238
+msgid "View Added Product."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Haladeen Add Simple Product Wizard"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A step by step wizard for adding simple products."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "teamyea"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://teamyea.com/"
+msgstr ""
